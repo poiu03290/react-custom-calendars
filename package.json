@@ -2,7 +2,7 @@
   "name": "react-custom-calendars",
   "private": false,
   "description": "A calendar that can be customized to your liking 🧨",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "main": "dist/index.umd.cjs",
   "module": "dist/index.js",
