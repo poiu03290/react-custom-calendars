@@ -2,7 +2,7 @@
   "name": "react-custom-calendars",
   "private": false,
   "description": "A calendar that can be customized to your liking 🧨",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "main": "dist/index.umd.cjs",
   "module": "dist/index.js",
@@ -17,6 +17,7 @@
     "custom-calendar"
   ],
   "author": "Kwon Hyuk",
+  "repository": "https://github.com/poiu03290/react-custom-calendars",
   "exports": {
     ".": {
       "import": "./dist/index.js",
